@@ -12,7 +12,7 @@
 ## About
 <div>
 <div>
-<img src="\Images\Logo\png\TheaterLogoFinal.png" height = "120" align = "left"/>
+<img src="\Images\Logo\png\TheaterLogoFinal.PNG" height = "120" align = "left"/>
 
 </div>
 <br>
