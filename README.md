@@ -6,7 +6,10 @@
 
 
 ## Home Page
-<p align="center"><img src="Readme_assets/home_pd.gif" width = 85% ></p>
+<p align="center"><img src="Images/Logo/png/Contactus_p.jpg" width = 85% ></p>
+<p align="center"><img src="Images/Logo/png/Singup_p.jpg" width = 85% ></p>
+<p align="center"><img src="Images/Logo/png/kids_p.jpg" width = 85% ></p>
+<p align="center"><img src="Images/Logo/png/search_p.jpgg" width = 85% ></p>
 
 
 ## About
